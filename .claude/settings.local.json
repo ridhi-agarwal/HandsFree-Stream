@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Figma__get_metadata",
+      "mcp__70ca2be1-dfc1-445f-9f65-f0bf61db0199__get_screenshot",
+      "Bash(curl -s -o \"D:\\\\Cooking Video\\\\.figma-overview.png\" \"https://www.figma.com/api/mcp/asset/a953ce28-f92e-4ac6-a7f0-a369dd8e92b7\")",
+      "mcp__70ca2be1-dfc1-445f-9f65-f0bf61db0199__get_metadata",
+      "Bash(curl -s -o .figma-1-entry.png \"https://www.figma.com/api/mcp/asset/7e380370-0a87-4337-abdd-48a4297e5dcf\")",
+      "Bash(curl -s -o .figma-2-gesture.png \"https://www.figma.com/api/mcp/asset/7fd71a58-be33-4667-a829-7e34f804a200\")",
+      "Bash(curl -s -o .figma-3-voice.png \"https://www.figma.com/api/mcp/asset/95bf283c-1673-45da-8729-effcf0cc02fb\")",
+      "mcp__70ca2be1-dfc1-445f-9f65-f0bf61db0199__get_design_context",
+      "Bash(npx vite *)",
+      "Bash(npm run *)",
+      "Bash(gh auth *)"
+    ]
+  }
+}
